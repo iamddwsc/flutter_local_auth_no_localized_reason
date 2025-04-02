@@ -1,3 +1,10 @@
+# reason of modification: This is a fork of the original package
+# local_auth_android
+I modified the original package to remove the need to use localizedReason, it makes the biometric prompt display localized text based on the device's language.
+
+[![pub package](https://img.shields.io/pub/v/local_auth_android.svg)](https://pub.dev/packages/local_auth_android)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 # local\_auth\_android
 
 The Android implementation of [`local_auth`][1].
